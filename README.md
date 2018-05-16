@@ -2,6 +2,10 @@
 
 **Argspace** is just three Python functions. It's even not a micro framework, just a piece of useful code :)
 
+## Requirements
+
+All you need is Python 2.7 :)
+
 ## `tokenize(command_line)`
 
 The function takes a command line as a `str` and returns a list of tokens. The rules are
